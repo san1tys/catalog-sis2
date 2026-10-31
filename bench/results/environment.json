@@ -1,0 +1,15 @@
+{
+  "arch": "arm64",
+  "client_go": "go1.25.1",
+  "finished_utc": "2026-10-30T19:01:04Z",
+  "gomaxprocs": 8,
+  "grpc_addr": "127.0.0.1:55053",
+  "http_addr": "127.0.0.1:58082",
+  "mode": "sequential, one outstanding read, warm connections, no retries or compression",
+  "os": "darwin",
+  "repeats": 3,
+  "samples_per_group": 1000,
+  "started_utc": "2026-10-30T19:00:59Z",
+  "timeout": "80ms",
+  "warmup_per_group": 100
+}
